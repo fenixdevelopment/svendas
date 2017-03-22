@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: fenixdev
+  api_key: '487595455982992'
+  api_secret: B-BM_hWyvCNY5w_K5ZhumisU7AM
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: fenixdev
+  api_key: '487595455982992'
+  api_secret: B-BM_hWyvCNY5w_K5ZhumisU7AM
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: fenixdev
+  api_key: '487595455982992'
+  api_secret: B-BM_hWyvCNY5w_K5ZhumisU7AM
+  enhance_image_tag: true
+  static_image_support: false
